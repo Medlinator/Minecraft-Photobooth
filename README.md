@@ -9,6 +9,6 @@ Open Python IDLE <br />
 Run Minecraft_Photobooth.py <br />
 <br />
 # GAME INSTRUCTIONS <br />
-Enter photobooth.<br />
-Proceed to gold block. <br />
+Enter photobooth<br />
+Proceed to gold block <br />
 Smile!<br />
